@@ -39,6 +39,11 @@ git clone https://github.com/radu2020/castlabs.git
 cd castlabs
 ```
 
+### Add .env file
+```sh
+mv .env.example .env
+```
+
 ### Run with docker
 ```sh
 docker compose up
